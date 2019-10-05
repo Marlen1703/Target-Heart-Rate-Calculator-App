@@ -1,0 +1,5 @@
+.pane{
+	-fx-background-image: url(runner.jpg);
+	-fx-background-size:stretch;
+    ;
+}
